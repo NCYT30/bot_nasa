@@ -1,0 +1,1 @@
+TELEGRAM_TOKEN = 'tu_api'
